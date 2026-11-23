@@ -4,3 +4,4 @@ data/songs_clean.csv
 __pycache__/
 *.pyc
 .DS_Store
+Music Recommender Progress Catalog.pdf
