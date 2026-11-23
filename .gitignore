@@ -1,0 +1,6 @@
+data/dataset.csv
+data/spotify_dataset.csv
+data/songs_clean.csv
+__pycache__/
+*.pyc
+.DS_Store
